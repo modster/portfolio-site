@@ -1,0 +1,14 @@
+{
+    "recommendations": [
+        "ms-vscode.live-server",
+        "simonsiefke.svg-preview",
+        "luisfontes19.vscode-swissknife",
+        "bradlc.vscode-tailwindcss",
+        "github.vscode-github-actions",
+        "antfu.vite",
+        "esbenp.prettier-vscode",
+        "christian-kohler.npm-intellisense",
+        "antfu.browse-lite",
+        "ms-edgedevtools.vscode-edge-devtools"
+    ]
+}

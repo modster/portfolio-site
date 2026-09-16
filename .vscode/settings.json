@@ -1,0 +1,9 @@
+{
+    "livePreview.defaultPreviewPath": "/index.html",
+    "npm.enableRunFromFolder": true,
+    "npm.scriptExplorerAction": "run",
+    "editor.defaultFormatter": "vscode.typescript-language-features",
+    "npm.packageManager": "npm",
+    "files.autoSave": "onFocusChange",
+    "editor.formatOnSave": true
+}

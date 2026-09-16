@@ -1,0 +1,20 @@
+{
+  "name": "jollified",
+  "version": "1.0.0",
+  "description": "Personal portfolio site for Jollified",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx http-server -o /index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jollified/portfolio-site.git"
+  },
+  "keywords": ["jollified", "portfolio", "site", "github", "github-pages",
+    "gh-pages"],
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/jollified/portfolio-site/issues"
+  },
+  "homepage": "https://jollified.github.io/portfolio-site"
+}

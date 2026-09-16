@@ -9,7 +9,6 @@ html {
     min-height: 100vh;
 }
 
-
 body {
     display: flex;
     flex-direction: column;
@@ -21,8 +20,6 @@ body {
     font-weight: 100;
     font-style: normal;
 }
-
-
 
 .topbar {
     position: fixed;
